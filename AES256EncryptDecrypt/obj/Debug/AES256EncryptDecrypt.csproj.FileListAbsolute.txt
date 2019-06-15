@@ -1,0 +1,7 @@
+C:\Users\LG\source\repos\AES256Encrypt&Decrypt\AES256EncryptDecrypt\bin\Debug\Base64Test.exe.config
+C:\Users\LG\source\repos\AES256Encrypt&Decrypt\AES256EncryptDecrypt\bin\Debug\Base64Test.exe
+C:\Users\LG\source\repos\AES256Encrypt&Decrypt\AES256EncryptDecrypt\bin\Debug\Base64Test.pdb
+C:\Users\LG\source\repos\AES256Encrypt&Decrypt\AES256EncryptDecrypt\obj\Debug\AES256EncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\AES256Encrypt&Decrypt\AES256EncryptDecrypt\obj\Debug\AES256EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\AES256Encrypt&Decrypt\AES256EncryptDecrypt\obj\Debug\Base64Test.exe
+C:\Users\LG\source\repos\AES256Encrypt&Decrypt\AES256EncryptDecrypt\obj\Debug\Base64Test.pdb

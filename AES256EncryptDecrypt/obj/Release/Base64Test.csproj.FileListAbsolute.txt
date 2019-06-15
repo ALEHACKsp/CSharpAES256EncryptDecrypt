@@ -1,0 +1,7 @@
+C:\Users\LG\source\repos\Base64Test\Base64Test\bin\Release\Base64Test.exe.config
+C:\Users\LG\source\repos\Base64Test\Base64Test\bin\Release\Base64Test.exe
+C:\Users\LG\source\repos\Base64Test\Base64Test\bin\Release\Base64Test.pdb
+C:\Users\LG\source\repos\Base64Test\Base64Test\obj\Release\Base64Test.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\Base64Test\Base64Test\obj\Release\Base64Test.exe
+C:\Users\LG\source\repos\Base64Test\Base64Test\obj\Release\Base64Test.pdb
+C:\Users\LG\source\repos\Base64Test\Base64Test\obj\Release\Base64Test.csprojAssemblyReference.cache
